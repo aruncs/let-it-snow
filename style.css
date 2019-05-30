@@ -1,0 +1,27 @@
+.test{
+  height: 100px;
+  width: 100px;
+  opacity: 1;
+  background-color: green;
+  transition: 3s width linear, 7s height linear, 5s opacity linear;
+}
+
+.add-height {
+  height: 200px;
+  width: 200px;
+  opacity: 0;
+}
+
+.test1{
+  height: 20px;
+  width: 100px;
+  background-color: rgb(25, 219, 219);
+  text-align: center;
+  color:white;
+  cursor: pointer;
+}
+
+body {
+  background-color: black;
+}
+
